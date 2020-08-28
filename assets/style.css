@@ -41,7 +41,7 @@ a.btn{
 hr{
 	width: 150px;
 	height: 2px;
-	background-color: #2196F3;
+	background-color: #3E8914;
 	border: 0;
 	margin-bottom: 80px;
 }
@@ -54,7 +54,7 @@ section{
 	padding: 125px 100px;
 }
 
-@media (max-width: 1000px){
+@media (max-width: 1024px){
 
 	section{
 		padding: 100px 50px;
@@ -62,7 +62,7 @@ section{
 
 }
 
-@media (max-width: 600px){
+@media (max-width: 500px){
 
 	section{
 		padding: 80px 30px;
@@ -277,7 +277,7 @@ header nav li:last-child{
 
 .features .grid li i{
     font-size: 50px;
-    color: #2196F3;
+    color: #3E8914;
     margin-bottom: 25px;
 }
 
@@ -291,7 +291,7 @@ header nav li:last-child{
     margin: 0;
 }
 
-@media (max-width: 1000px){
+@media (max-width: 1024px){
 
 	.features .grid li{
 		flex-basis: 70%;
@@ -305,7 +305,7 @@ header nav li:last-child{
 }
 
 
-@media (max-width: 600px){
+@media (max-width: 500px){
 
 	.features .grid li{
 		flex-basis: 100%;
@@ -342,7 +342,7 @@ header nav li:last-child{
     margin-bottom: 0;
 }
 
-@media (max-width: 1000px){
+@media (max-width: 1024px){
 
 	.reviews .quote{
 		font-size: 20px;
