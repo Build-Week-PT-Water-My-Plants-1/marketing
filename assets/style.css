@@ -41,7 +41,7 @@ a.btn{
 hr{
 	width: 150px;
 	height: 2px;
-	background-color: #2196F3;
+	background-color: black;
 	border: 0;
 	margin-bottom: 80px;
 }
@@ -277,7 +277,7 @@ header nav li:last-child{
 
 .features .grid li i{
     font-size: 50px;
-    color: #2196F3;
+    color: green;
     margin-bottom: 25px;
 }
 
